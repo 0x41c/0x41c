@@ -4,7 +4,7 @@ I am a full stack developer with the knowledge of many various programming langu
 
 Here is some of my stats while I make a proper readme LOL
 
-![c0dine's github stats](https://github-profile-stats.vercel.app/api?username=c0dine&count_private=true&&theme=algolia&show_icons=true&show_owner)
+![c0dine's github stats](https://github-profile-stats.vercel.app/api?username=c0dine&count_private=true&&theme=synthwave&show_icons=true&show_owner)
 
 <!--
 **c0dine/c0dine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
