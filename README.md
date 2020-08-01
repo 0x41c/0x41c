@@ -8,7 +8,7 @@ Here is some of my stats while I make a proper readme LOL
 
 Some of my c0ding languages below (Not all are showing for some reason) 
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dine&layout=compact)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dine&layout=compact&theme=synthwave&show_owner)
 <!--
 **c0dine/c0dine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
