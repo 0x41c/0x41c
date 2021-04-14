@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a **SGHTML Website Toolkit (Swift Generated HTML)**
 - 🌱 I’m currently learning **Flutter and Dart**
-- 👯 I’m looking to collaborate on **Any swift tweaks you feel like you need help making (Also regular tweaks as well)
+- 👯 I’m looking to collaborate on any swift tweaks you feel like you need help making (Also regular tweaks as well)
 - 🤔 I’m looking for help with my **SGHTML Website Toolkit**. This is a new project and I am looking for help to get it off the ground
 - 💬 Ask me about anything really.*
 - 📫 How to reach me: You can message me on Discord! My current username is *c0dineDev#2772*
