@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ~~something secret~~
 - 🌱 I’m currently learning Swift Runtime Modification 👀
 - 💬 Ask me about anything really
-- 📫 How to reach me: You can message me on Discord! My username is *c0dineDev#2772*
+- 📫 How to reach me: You can message me on Discord! My username is *Cero#4141*
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Anything can be hacked
 
